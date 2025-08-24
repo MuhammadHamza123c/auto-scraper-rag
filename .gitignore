@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS / Linux / Windows junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data / temp files
+*.csv
+*.json
+*.db
+*.sqlite
+*.pkl
+*.joblib
+
+# Model / embedding cache
+*.npy
+*.npz
+*.bin
+
+# HuggingFace / LangChain cache
+.cache/
+~*
+
+# Project-specific
+scrap_output/
+rag_output/

@@ -1,0 +1,16 @@
+
+requests
+beautifulsoup4
+lxml
+
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+
+faiss-cpu
+chroma_db
+
+python-dotenv
+
